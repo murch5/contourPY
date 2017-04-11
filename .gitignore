@@ -85,3 +85,7 @@ tmtagsHistory
 *.tif
 
 log.txt
+*.txt
+*.avi
+*.mp4
+*.ini
